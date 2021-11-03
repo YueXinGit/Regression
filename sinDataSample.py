@@ -63,7 +63,7 @@ class nnModel:
 
 
 #%%
-class RNN:
+class RnnModel:
     def __init__(self):
         self.X = X
         self.Y = Y
